@@ -2,4 +2,4 @@
 
 ### HTML & CSS & JS
 
-### website Link: https://ak-zero0.github.io/dicee/
+### website Link: https://ak-zero0.github.io/Dicee/
